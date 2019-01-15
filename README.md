@@ -3,7 +3,7 @@ Mos Eisley Card-tina TCG
 
 currently version alpha 1.0.2
 
-### ------CREATED BY-----
+### ------CREATED BY------
 Originally created as a Hackathon project at HackNA.
 Version 1.0.0:
 
@@ -12,7 +12,7 @@ Version 1.0.0:
 + Nick Barnes (design)
 + Ryan Cole (graphics)
 
-##### ----RECENT CHANGES---
+##### ----RECENT CHANGES----
 
 + 2D-Listify on Deck init
   > needs testing
