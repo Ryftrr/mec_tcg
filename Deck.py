@@ -3,7 +3,7 @@ Mos Eisley Cardtina Project (Deck Object Class)
 '''
 
 #Version Alpha 1.1.2
-
+'''
 class Deck:
     #initializes decks for player (eventually for AI)
     def initDeck(playerclass):
@@ -110,3 +110,4 @@ class Deck:
         hand[2]= drawCard(cardlist)
         return hand
     
+'''
