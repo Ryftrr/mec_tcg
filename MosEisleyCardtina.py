@@ -1,8 +1,16 @@
 '''
+Mos Eisley Cardtina Project (Main Class)
+'''
+
+#original header
+'''
 gen cohen, connor ciccone, nick barnes, ryan cole
 card game
 hackNA
 '''
+
+#Uploaded to github by Ryan Cole / Ryftrr
+#Version Alpha 1.1.2
 
 import pygame, sys, math, random, time
 
