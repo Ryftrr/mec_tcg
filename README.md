@@ -15,7 +15,5 @@ Version 1.0.0:
 ##### ----RECENT CHANGES----
 
 + 2D-Listify on Deck init
-  > needs testing
 + fixed indentation errors
-+ organized assets into folders
-  > currently organizing code to reflect file path changes
++ organized assets into folders & updated file paths accordingly
